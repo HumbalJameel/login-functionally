@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(./ASSETS/stranger.jpg) ;
+    background-image: url(./assets/stranger.jpg) ;
     background-position: cover;
     background-size: cover;
 }
